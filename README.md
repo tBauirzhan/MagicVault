@@ -11,6 +11,7 @@ cd MagicVault
 mkdir build && cd build
 cmake ..
 make
+or
 sudo make install
 ```
 ## 🚀 Usage Example
@@ -42,3 +43,4 @@ int main() {
 #### 📜 License
 
 MIT
+
