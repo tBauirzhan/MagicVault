@@ -6,7 +6,7 @@ Supports any type via `std::any`, thread-safe, and organized by "gates" (namespa
 ## 📦 Build & Install
 
 ```bash
-git clone https://github.com/YourName/MagicVault.git
+git clone https://github.com/tBauirzhan/MagicVault.git
 cd MagicVault
 mkdir build && cd build
 cmake ..
@@ -40,4 +40,5 @@ int main() {
 - Single instance (singleton)
 
 #### 📜 License
+
 MIT
